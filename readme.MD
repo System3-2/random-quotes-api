@@ -2,4 +2,6 @@
 
 ###### This is a very basic project built with rapid api and fetch
 
-#### [Live Demo here](https://oloja-quotes-api.netlify.app/)
+#### [Live Demo here💗](https://oloja-quotes-api.netlify.app/);
+
+##### Thanks for reviewing
